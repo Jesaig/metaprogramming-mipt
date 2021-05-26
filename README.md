@@ -1,1 +1,1 @@
-# metaprogramming-mipt
+Для запуска тестов наберите ./script.sh
